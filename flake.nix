@@ -23,7 +23,7 @@
       ];
       buildInputs = with pkgs; [
         jdk17
-        jetbrains.idea-community
+        jetbrains.idea-ultimate
       ];
 
       shellHook = ''
